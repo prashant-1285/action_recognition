@@ -9,7 +9,7 @@ I utilized the Streamlit framework to create a user-friendly web application. Th
 To get started, follow these steps:
 
 1. **Clone the Repository**: Begin by cloning this repository to your local machine.
-2. **Install Dependencies**: Navigate to the repository directory and install the required packages. Detailed instructions for package installation are provided in the README_official.md file.
+2. **Install Dependencies**: Navigate to the repository directory and install the required packages. Detailed instructions for package installation are provided in the official repository README_official.md file.
 3. **Run the Application**: After installing the necessary packages within a virtual environment, install the Streamlit package using the following command:
 
 To install Streamlit, run the following command:
